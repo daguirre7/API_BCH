@@ -1,1 +1,0 @@
-AZURE='snp-gffr-prd-dwhandr-001.sql.azuresynapse.net'
